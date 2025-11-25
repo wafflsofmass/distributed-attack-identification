@@ -27,4 +27,4 @@ Aisuru is a Turbo Mirai-class IoT botnet that frequently causes record-breaking 
 - [comprehensive review of the impact of adversial attacks](https://arxiv.org/pdf/2412.12217)
 ### Defense
 - [Recent framework for identifying botnet attacks](https://arxiv.org/pdf/2401.09358)
-- 
+- [GNNs for botnet identification](https://arxiv.org/pdf/2505.17357)
