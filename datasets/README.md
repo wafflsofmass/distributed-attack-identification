@@ -1,5 +1,21 @@
 # Datasets for Cybersecurity and More!
 
+## Mirai Botnet
+### Tasks
+- Botnet Attack Detection
+### Description
+Contains network protocol data for both benign and malignant network traffic. Malignant network traffic is intended to simulate the network data from a Mirai Botnet.
+### Data Loaders
+- url: https://huggingface.co/datasets/bornpresident/mirai_botnet
+
+## NADW-network-attacks-dataset
+### Tasks
+- Network Anomaly Detection in Cybersecurity
+### Description
+This project presents a comprehensive network traffic dataset used for training AI models for anomaly detection in cybersecurity. The dataset was collected using Wireshark and includes both normal network traffic and various types of simulated network attacks. These attacks cover a wide range of common cybersecurity threats, providing an ideal resource for training systems to detect and respond to real-time network anomalies. (from huggingface dataset card)
+### Data Loaders
+- url: https://huggingface.co/datasets/onurkya7/NADW-network-attacks-dataset
+
 ## Cybersecurity Threat Detection
 ### Tasks
 
