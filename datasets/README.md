@@ -27,8 +27,8 @@ This project presents a comprehensive network traffic dataset used for training 
 ### Description
 CIC IoT Dataset 2022 This project aims to generate a state-of-the-art dataset for profiling, behavioural analysis, and vulnerability testing of different IoT devices with different protocols such as IEEE 802. 11, Zigbee-based and Z-Wave. 
 ### Paper
-Link: [_Towards the development of a realistic multidimensional IoT profiling dataset_](https://ieeexplore. ieee. org/document/9851966)
-Introduced Date: August 22, 2022
+- Link: [_Towards the development of a realistic multidimensional IoT profiling dataset_](https://ieeexplore. ieee. org/document/9851966)
+- Introduced Date: August 22, 2022
 ### Additional Links
 - https://www.unb.ca/cic/datasets/iotdataset-2022.html
 -------------------------------------------------------------------------------------------
