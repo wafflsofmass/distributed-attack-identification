@@ -7,7 +7,7 @@
 Contains network protocol data for both benign and malignant network traffic. Malignant network traffic is intended to simulate the network data from a Mirai Botnet.
 ### Data Loaders
 - url: https://huggingface.co/datasets/bornpresident/mirai_botnet
-
+-------------------------------------------------------------------------------------------
 ## NADW-network-attacks-dataset
 ### Tasks
 - Network Anomaly Detection in Cybersecurity
@@ -15,7 +15,7 @@ Contains network protocol data for both benign and malignant network traffic. Ma
 This project presents a comprehensive network traffic dataset used for training AI models for anomaly detection in cybersecurity. The dataset was collected using Wireshark and includes both normal network traffic and various types of simulated network attacks. These attacks cover a wide range of common cybersecurity threats, providing an ideal resource for training systems to detect and respond to real-time network anomalies. (from huggingface dataset card)
 ### Data Loaders
 - url: https://huggingface.co/datasets/onurkya7/NADW-network-attacks-dataset
-
+-------------------------------------------------------------------------------------------
 ## Cybersecurity Threat Detection
 ### Tasks
 
@@ -37,23 +37,6 @@ The **CICIoMT2024 dataset** is a comprehensive dataset designed for cybersecurit
 
 ### Additional Links
 - https://www.unb.ca/cic/datasets/iomt-dataset-2024.html
-  
--------------------------------------------------------------------------------------------
-
-## ARINC 429 Voltage Data
-### Tasks
-- [Intrusion Detection](https://web.archive.org/web/20240412153636/https://paperswithcode.com/task/intrusion-detection)
-### Description
-This page contains ARINC 429 message data recorded from the hardware-in-a-loop simulator. These messages were recorded using a SIGLENT SDS2204X Plus oscilloscope sampling at 20 MHz. The intent of this data is to enable cybersecurity research and development for ARINC 429 by providing detailed message data from multiple hardware sources. The dataset consists of three csv files of ARINC 429 messages along with a data dictionary markdown file. The zip file is 550MB and each csv file is approximately 1. 5GB. The csv filenames indicate which transmitter the messages were being sent from, with the EGPWS representing a “valid” transmitter while the RTX and AltaDT both represent adversarial transmitters. 
-
-### Paper
-- Link: [ARINC 429 Cyber-vulnerabilities and Voltage Data in a Hardware-in-the-Loop Simulator](https://paperswithcode.com/paper/arinc-429-cyber-vulnerabilities-and-voltage)
-- Introduced Date: 2024-08-29
-- Number of Associated Papers: 1
-
-
-### Additional Links
-- https://testscience.org/arinc/
   
 -------------------------------------------------------------------------------------------
 
@@ -291,4 +274,18 @@ Language Model (LM) agents for cybersecurity that are capable of autonomously id
 
 ### Additional Links
 - https://cybench.github.io/
-  
+-------------------------------------------------------------------------------------------
+## ARINC 429 Voltage Data
+### Tasks
+- [Intrusion Detection](https://web.archive.org/web/20240412153636/https://paperswithcode.com/task/intrusion-detection)
+### Description
+This page contains ARINC 429 message data recorded from the hardware-in-a-loop simulator. These messages were recorded using a SIGLENT SDS2204X Plus oscilloscope sampling at 20 MHz. The intent of this data is to enable cybersecurity research and development for ARINC 429 by providing detailed message data from multiple hardware sources. The dataset consists of three csv files of ARINC 429 messages along with a data dictionary markdown file. The zip file is 550MB and each csv file is approximately 1. 5GB. The csv filenames indicate which transmitter the messages were being sent from, with the EGPWS representing a “valid” transmitter while the RTX and AltaDT both represent adversarial transmitters. 
+
+### Paper
+- Link: [ARINC 429 Cyber-vulnerabilities and Voltage Data in a Hardware-in-the-Loop Simulator](https://paperswithcode.com/paper/arinc-429-cyber-vulnerabilities-and-voltage)
+- Introduced Date: 2024-08-29
+- Number of Associated Papers: 1
+
+
+### Additional Links
+- https://testscience.org/arinc/
