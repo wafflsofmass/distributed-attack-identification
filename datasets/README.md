@@ -40,8 +40,8 @@ CIC IoT Dataset 2022 This project aims to generate a state-of-the-art dataset fo
 This is an academic intrusion detection dataset. All the credit goes to the original authors: Dr. Iman Sharafaldin, Dr. Saqib Hakak, Dr. Arash Habibi Lashkari Dr. Ali Ghorbani. Please cite their original paper. The dataset offers an extended set of Distributed Denial of Service attacks, most of which employ some form of amplification through reflection. The dataset shares its feature set with the other CIC NIDS datasets, IDS2017, IDS2018 and DoS2017
 
 ### Paper
-Link: [LUCID: A Practical, Lightweight Deep Learning Solution for DDoS Attack Detection](https://paperswithcode.com/paper/lucid-a-practical-lightweight-deep-learning)
-Introduced Date: 2020-02-12
+- Link: [LUCID: A Practical, Lightweight Deep Learning Solution for DDoS Attack Detection](https://paperswithcode.com/paper/lucid-a-practical-lightweight-deep-learning)
+- Introduced Date: 2020-02-12
 Number of Associated Papers: 8
 -------------------------------------------------------------------------------------------
 ### Additional Links
