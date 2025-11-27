@@ -79,8 +79,8 @@ This is the data set used for The Third International Knowledge Discovery and Da
 
 
 ### Data Loaders
-- 	url: https://www.tensorflow.org/datasets/catalog/kddcup99
-	  repo:https://github.com/tensorflow/datasets
+- url: https://www.tensorflow.org/datasets/catalog/kddcup99
+- repo: https://github.com/tensorflow/datasets
   
 ### Additional Links
 - https://archive.ics.uci.edu/ml/datasets/kdd+cup+1999+data
@@ -100,8 +100,8 @@ Malware Traffic Analysis Knowledge Dataset 2019 (MTA-KDD'19) is an updated and r
 
 
 ### Data Loaders
-- 	url: https://github.com/IvanLetteri/MTA-KDD-19
-	  repo: https://github.com/IvanLetteri/MTA-KDD-19
+- url: https://github.com/IvanLetteri/MTA-KDD-19
+- repo: https://github.com/IvanLetteri/MTA-KDD-19
   
 ### Additional Links
 - https://github.com/IvanLetteri/MTA-KDD-19
@@ -152,8 +152,8 @@ Intrusion Detection Evaluation Dataset (CIC-IDS2017) Intrusion Detection Systems
 
 
 ### Data Loaders
-- 	url: https://www.kaggle.com/datasets/dhoogla/unswnb15
-	  repo: https://github.com/Kaggle/kaggle-api
+- url: https://www.kaggle.com/datasets/dhoogla/unswnb15
+- repo: https://github.com/Kaggle/kaggle-api
   
 ### Additional Links
 - https://www.unsw.adfa.edu.au/unsw-canberra-cyber/cybersecurity/ADFA-NB15-Datasets/
@@ -233,8 +233,8 @@ Cybersecurity education is exceptionally challenging as it involves learning the
 
 
 ### Data Loaders
-- 	url: https://github.com/garima0106/AISecKG-cybersecurity-dataset
-	  repo: https://github.com/garima0106/AISecKG-cybersecurity-dataset
+- url: https://github.com/garima0106/AISecKG-cybersecurity-dataset
+- repo: https://github.com/garima0106/AISecKG-cybersecurity-dataset
   
 ### Additional Links
 - https://github.com/garima0106/AISecKG-cybersecurity-dataset
