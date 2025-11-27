@@ -1,6 +1,7 @@
 # Datasets for Cybersecurity and More!
 
 This document lists different datasets for botnet attacks, IoT intrusion detection, anomaly detection, general cybersecurity training data, and related informational datasets.
+These can be used for generating informational material, training models for attack detection, or for simulating attacks.
 
 -------------------------------------------------------------------------------------------
 ## Mirai Botnet
