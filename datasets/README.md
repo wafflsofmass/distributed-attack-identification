@@ -18,7 +18,7 @@ This project presents a comprehensive network traffic dataset used for training 
 -------------------------------------------------------------------------------------------
 ## Cybersecurity Threat Detection
 ### Tasks
-
+- General Cybersecurity Threat Detection
 ### Description
 Problem Statement <a href="https://globaltechnosol. com/case_studies/Cybersecurity-Threat-Detection/" target="_blank">👉 Download the case studies here</a> Organizations face an increasing number of sophisticated cybersecurity threats, including malware, phishing attacks, and unauthorized access. A financial institution experienced frequent attempts to breach its network, risking sensitive data and regulatory compliance. Traditional security measures were reactive and failed to detect threats in real time. The institution sought a proactive AI-driven solution to identify and prevent cybersecurity threats effectively. Challenge Developing an advanced threat detection system required addressing several challenges: Processing and analyzing large volumes of network traffic and user activity data in real time. Identifying new and evolving threats, such as zero-day vulnerabilities, with high accuracy. Minimizing false positives to ensure security teams could focus on genuine threats. Solution Provided An AI-powered threat detection system was developed using machine learning algorithms and advanced analytics. The solution was designed to: Continuously monitor network activity and user behavior to identify suspicious patterns. Detect and neutralize cybersecurity threats in real time, including malware and phishing attempts. Provide actionable insights to security teams for faster and more effective threat response. Development Steps Data Collection Collected network traffic logs, endpoint activity, and historical threat data to train machine learning models. Preprocessing Cleaned and standardized data, ensuring compatibility across diverse sources, and filtered out noise for accurate analysis. Model Development Developed machine learning algorithms for anomaly detection, behavioral analysis, and threat classification. Trained models on labeled datasets to recognize known threats and identify emerging attack patterns. Validation Tested the system against simulated and real-world threat scenarios to evaluate detection accuracy, response times, and reliability. Deployment Integrated the threat detection system into the institution’s existing cybersecurity infrastructure, including firewalls, SIEM (Security Information and Event Management) tools, and endpoint protection Continuous Monitoring & Improvement Established a feedback loop to refine models using new threat data and adapt to evolving attack strategies. Results Enhanced Security Posture The system improved the institution’s ability to detect and prevent cybersecurity threats proactively, strengthening its overall security framework. Reduced Incidence of Cyber Attacks Real-time detection and response significantly reduced the frequency and impact of successful cyber attacks. Improved Threat Response Times Automated threat identification and prioritization enabled security teams to respond faster and more effectively to potential breaches. Minimized False Positives Advanced algorithms reduced false alarms, allowing security teams to focus on genuine threats and improve efficiency. Scalable and Adaptive Solution The system adapted to new threats and scaled effortlessly to protect growing organizational networks and data. 
 
@@ -27,19 +27,6 @@ Problem Statement <a href="https://globaltechnosol. com/case_studies/Cybersecuri
 - https://globaltechnosol.com/case_studies/cybersecurity-threat-detection/
   
 -------------------------------------------------------------------------------------------
-
-## CIC IoMT dataset 2024
-### Tasks
-
-### Description
-The **CICIoMT2024 dataset** is a comprehensive dataset designed for cybersecurity research focused on the Internet of Medical Things (IoMT). Developed by the Canadian Institute for Cybersecurity, it simulates realistic IoMT network traffic, representing the diverse and evolving threats faced by connected healthcare devices. The dataset comprises network traffic data from various IoMT devices, with labeled instances for 18 distinct types of cyberattacks, alongside benign traffic data. Each cyberattack type is meticulously crafted to reflect common and advanced threats, such as Distributed Denial of Service (DDoS), ransomware, man-in-the-middle attacks, and malware injections. With a balanced mix of attacks and benign instances, CICIoMT2024 enables robust training and testing for various cybersecurity models. The CICIoMT2024 dataset’s detailed packet-level information and multi-class labels make it ideal for developing and evaluating machine learning and deep learning algorithms. Its design emphasizes real-world application, making it a valuable resource for researchers aiming to enhance IoMT security, protect patient data, and ensure the resilience of medical networks against cyber threats. 
-
-
-### Additional Links
-- https://www.unb.ca/cic/datasets/iomt-dataset-2024.html
-  
--------------------------------------------------------------------------------------------
-
 ## A NEW COMPREHENSIVE REALISTIC CYBER SECURITY DATASET OF IOT AND IIOT APPLICATIONS: CENTRALIZED AND FEDERATED LEARNING
 ### Tasks
 - [Intrusion Detection](https://web.archive.org/web/20240412153636/https://paperswithcode.com/task/intrusion-detection)
@@ -176,21 +163,15 @@ The **TON_IoT** datasets are new generations of Internet of Things (IoT) and Ind
 - https://ieee-dataport.org/documents/toniot-datasets
   
 -------------------------------------------------------------------------------------------
-
-## Analytic Provenance
+## CIC IoMT dataset 2024
 ### Tasks
 
 ### Description
-**Analytic provenance** is a data repository that can be used to study human analysis activity, thought processes, and software interaction with visual analysis tools during exploratory data analysis. It was collected during a series of user studies involving exploratory data analysis scenario with textual and cyber security data. Interactions logs, think-alouds, videos and all coded data in this study are available online for research purposes. Analysis sessions are segmented in multiple sub-task steps based on user think-alouds, video and audios captured during the studies. These analytic provenance datasets can be used for research involving tools and techniques for analyzing interaction logs and analysis history. 
-
-### Paper
-- Link: [Analytic Provenance Datasets: A Data Repository of Human Analysis Activity and Interaction Logs](https://paperswithcode.com/paper/analytic-provenance-datasets-a-data)
-- Introduced Date: 2018-01-16
-- Number of Associated Papers: 1
+The **CICIoMT2024 dataset** is a comprehensive dataset designed for cybersecurity research focused on the Internet of Medical Things (IoMT). Developed by the Canadian Institute for Cybersecurity, it simulates realistic IoMT network traffic, representing the diverse and evolving threats faced by connected healthcare devices. The dataset comprises network traffic data from various IoMT devices, with labeled instances for 18 distinct types of cyberattacks, alongside benign traffic data. Each cyberattack type is meticulously crafted to reflect common and advanced threats, such as Distributed Denial of Service (DDoS), ransomware, man-in-the-middle attacks, and malware injections. With a balanced mix of attacks and benign instances, CICIoMT2024 enables robust training and testing for various cybersecurity models. The CICIoMT2024 dataset’s detailed packet-level information and multi-class labels make it ideal for developing and evaluating machine learning and deep learning algorithms. Its design emphasizes real-world application, making it a valuable resource for researchers aiming to enhance IoMT security, protect patient data, and ensure the resilience of medical networks against cyber threats. 
 
 
 ### Additional Links
-- https://research.arch.tamu.edu/analytic-provenance/datasets/
+- https://www.unb.ca/cic/datasets/iomt-dataset-2024.html
   
 -------------------------------------------------------------------------------------------
 
@@ -238,6 +219,23 @@ Cybersecurity education is exceptionally challenging as it involves learning the
   
 ### Additional Links
 - https://github.com/garima0106/AISecKG-cybersecurity-dataset
+  
+-------------------------------------------------------------------------------------------
+
+## Analytic Provenance
+### Tasks
+
+### Description
+**Analytic provenance** is a data repository that can be used to study human analysis activity, thought processes, and software interaction with visual analysis tools during exploratory data analysis. It was collected during a series of user studies involving exploratory data analysis scenario with textual and cyber security data. Interactions logs, think-alouds, videos and all coded data in this study are available online for research purposes. Analysis sessions are segmented in multiple sub-task steps based on user think-alouds, video and audios captured during the studies. These analytic provenance datasets can be used for research involving tools and techniques for analyzing interaction logs and analysis history. 
+
+### Paper
+- Link: [Analytic Provenance Datasets: A Data Repository of Human Analysis Activity and Interaction Logs](https://paperswithcode.com/paper/analytic-provenance-datasets-a-data)
+- Introduced Date: 2018-01-16
+- Number of Associated Papers: 1
+
+
+### Additional Links
+- https://research.arch.tamu.edu/analytic-provenance/datasets/
   
 -------------------------------------------------------------------------------------------
 
