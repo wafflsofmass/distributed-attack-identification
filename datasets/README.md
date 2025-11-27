@@ -30,9 +30,9 @@ The **CICIoMT2024 dataset** is a comprehensive dataset designed for cybersecurit
 This page contains ARINC 429 message data recorded from the hardware-in-a-loop simulator. These messages were recorded using a SIGLENT SDS2204X Plus oscilloscope sampling at 20 MHz. The intent of this data is to enable cybersecurity research and development for ARINC 429 by providing detailed message data from multiple hardware sources. The dataset consists of three csv files of ARINC 429 messages along with a data dictionary markdown file. The zip file is 550MB and each csv file is approximately 1. 5GB. The csv filenames indicate which transmitter the messages were being sent from, with the EGPWS representing a “valid” transmitter while the RTX and AltaDT both represent adversarial transmitters. 
 
 ### Paper
-Link: [ARINC 429 Cyber-vulnerabilities and Voltage Data in a Hardware-in-the-Loop Simulator](https://paperswithcode.com/paper/arinc-429-cyber-vulnerabilities-and-voltage)
-Introduced Date: 2024-08-29
-Number of Associated Papers: 1
+- Link: [ARINC 429 Cyber-vulnerabilities and Voltage Data in a Hardware-in-the-Loop Simulator](https://paperswithcode.com/paper/arinc-429-cyber-vulnerabilities-and-voltage)
+- Introduced Date: 2024-08-29
+- Number of Associated Papers: 1
 
 
 ### Additional Links
@@ -61,9 +61,9 @@ ABSTRACT In this project, we propose a new comprehensive realistic cyber securit
 This is the first image-based network intrusion detection dataset. This large-scale dataset included network traffic protocol communication-based images from 15 different observation locations of different countries in Asia. This dataset is used to identify two different types of anomalies from benign network traffic. Each image with a size of 48 × 48 contains multi-protocol communications within 128 seconds. The SIDD dataset can be to applied to a broad range of tasks such as machine learning-based network intrusion detection, non-iid federated learning, and so forth. 
 
 ### Paper
-Link: [Adaptive Intrusion Detection in the Networking of Large-Scale LANs with Segmented Federated Learning](https://paperswithcode.com/paper/adaptive-intrusion-detection-in-the)
-Introduced Date: 2020-12-16
-Number of Associated Papers: 3
+- Link: [Adaptive Intrusion Detection in the Networking of Large-Scale LANs with Segmented Federated Learning](https://paperswithcode.com/paper/adaptive-intrusion-detection-in-the)
+- Introduced Date: 2020-12-16
+- Number of Associated Papers: 3
 
 
 ### Additional Links
@@ -80,8 +80,7 @@ This is the data set used for The Third International Knowledge Discovery and Da
 
 ### Data Loaders
 - 	url: https://www.tensorflow.org/datasets/catalog/kddcup99
-	repo:https://github.com/tensorflow/datasets
-	tf, pytorch, jax
+	  repo:https://github.com/tensorflow/datasets
   
 ### Additional Links
 - https://archive.ics.uci.edu/ml/datasets/kdd+cup+1999+data
@@ -95,15 +94,14 @@ This is the data set used for The Third International Knowledge Discovery and Da
 Malware Traffic Analysis Knowledge Dataset 2019 (MTA-KDD'19) is an updated and refined dataset specifically tailored to train and evaluate machine learning based malware traffic analysis algorithms. To generate it, that authors started from the largest databases of network traffic captures available online, deriving a dataset with a set of widely-applicable features and then cleaning and preprocessing it to remove noise, handle missing data and keep its size as small as possible. The resulting dataset is not biased by any specific application (although specifically addressed to machine learning algorithms), and the entire process can run automatically to keep it updated. Source: [Letteri et al. ](http://ceur-ws. org/Vol-2597/paper-14. pdf)
 
 ### Paper
-Link: [A Novel Resampling Technique for Imbalanced Dataset Optimization](https://paperswithcode.com/paper/a-novel-resampling-technique-for-imbalanced)
-Introduced Date: 2020-12-30
-Number of Associated Papers: 1
+- Link: [A Novel Resampling Technique for Imbalanced Dataset Optimization](https://paperswithcode.com/paper/a-novel-resampling-technique-for-imbalanced)
+- Introduced Date: 2020-12-30
+- Number of Associated Papers: 1
 
 
 ### Data Loaders
 - 	url: https://github.com/IvanLetteri/MTA-KDD-19
-	repo:https://github.com/IvanLetteri/MTA-KDD-19
-	none
+	  repo: https://github.com/IvanLetteri/MTA-KDD-19
   
 ### Additional Links
 - https://github.com/IvanLetteri/MTA-KDD-19
@@ -129,9 +127,9 @@ Intrusion Detection Evaluation Dataset (CIC-IDS2017) Intrusion Detection Systems
 **Cry Wolf** is a dataset for cyber security analysis tasks. It is an open-access dataset of 73 true and false Intrusion Detection System (IDS) alarms derived from real-world examples of "impossible travel" scenarios. 
 
 ### Paper
-Link: [Cry Wolf: Toward an Experimentation Platform and Dataset for Human Factors in Cyber Security Analysis](https://paperswithcode.com/paper/cry-wolf-toward-an-experimentation-platform)
-Introduced Date: 2020-02-24
-Number of Associated Papers: 1
+- Link: [Cry Wolf: Toward an Experimentation Platform and Dataset for Human Factors in Cyber Security Analysis](https://paperswithcode.com/paper/cry-wolf-toward-an-experimentation-platform)
+- Introduced Date: 2020-02-24
+- Number of Associated Papers: 1
 
 
 ### Additional Links
@@ -148,14 +146,14 @@ Number of Associated Papers: 1
 **UNSW-NB15** is a network intrusion dataset. It contains nine different attacks, includes DoS, worms, Backdoors, and Fuzzers. The dataset contains raw network packets. The number of records in the training set is 175,341 records and the testing set is 82,332 records from the different types, attack and normal. Source: [Evaluation of Adversarial Training on Different Types of Neural Networks in Deep Learning-based IDSs](https://arxiv. org/abs/2007. 04472) Image Source: [https://www. unsw. adfa. edu. au/unsw-canberra-cyber/cybersecurity/ADFA-NB15-Datasets/](https://www. unsw. adfa. edu. au/unsw-canberra-cyber/cybersecurity/ADFA-NB15-Datasets/) Paper: [UNSW-NB15: a comprehensive data set for network intrusion detection systems](https://doi. org/10. 1109/MilCIS. 2015. 7348942)
 
 ### Paper
-Link: [UNSW-NB15: a comprehensive data set for network intrusion detection systems (UNSW-NB15 network data set)](https://doi.org/10.1109/MilCIS.2015.7348942)
-Introduced Date: 2015-11-01
-Number of Associated Papers: 147
+- Link: [UNSW-NB15: a comprehensive data set for network intrusion detection systems (UNSW-NB15 network data set)](https://doi.org/10.1109/MilCIS.2015.7348942)
+- Introduced Date: 2015-11-01
+- Number of Associated Papers: 147
 
 
 ### Data Loaders
 - 	url: https://www.kaggle.com/datasets/dhoogla/unswnb15
-	repo:https://github.com/Kaggle/kaggle-api
+	  repo: https://github.com/Kaggle/kaggle-api
   
 ### Additional Links
 - https://www.unsw.adfa.edu.au/unsw-canberra-cyber/cybersecurity/ADFA-NB15-Datasets/
@@ -169,9 +167,9 @@ Number of Associated Papers: 147
 The **TON_IoT** datasets are new generations of Internet of Things (IoT) and Industrial IoT (IIoT) datasets for evaluating the fidelity and efficiency of different cybersecurity applications based on Artificial Intelligence (AI). The datasets have been called ‘ToN_IoT’ as they include heterogeneous data sources collected from Telemetry datasets of IoT and IIoT sensors, Operating systems datasets of Windows 7 and 10 as well as Ubuntu 14 and 18 TLS and Network traffic datasets. The datasets were collected from a realistic and large-scale network designed at the IoT Lab of the UNSW Canberra Cyber, the School of Engineering and Information technology (SEIT), UNSW Canberra @ the Australian Defence Force Academy (ADFA). The datasets were gathered in a parallel processing to collect several normal and cyber-attack events from IoT networks. A new testbed was developed at the IoT lab to connect many virtual machine, physical systems, hacking platforms, cloud and fog platforms, IoT and IIoT sensors to mimic the complexity and scalability of industrial IoT and Industry 4. 0 networks. Different hacking techniques, such as DoS, DDoS and ransomware against, were launched against web applications, IoT gateways and computer systems across the IIoT network. 
 
 ### Paper
-Link: [Federated TON_IoT Windows Datasets for Evaluating AI-based Security Applications](https://paperswithcode.com/paper/federated-ton-iot-windows-datasets-for)
-Introduced Date: 2020-10-04
-Number of Associated Papers: 7
+- Link: [Federated TON_IoT Windows Datasets for Evaluating AI-based Security Applications](https://paperswithcode.com/paper/federated-ton-iot-windows-datasets-for)
+- Introduced Date: 2020-10-04
+- Number of Associated Papers: 7
 
 
 ### Additional Links
@@ -186,9 +184,9 @@ Number of Associated Papers: 7
 **Analytic provenance** is a data repository that can be used to study human analysis activity, thought processes, and software interaction with visual analysis tools during exploratory data analysis. It was collected during a series of user studies involving exploratory data analysis scenario with textual and cyber security data. Interactions logs, think-alouds, videos and all coded data in this study are available online for research purposes. Analysis sessions are segmented in multiple sub-task steps based on user think-alouds, video and audios captured during the studies. These analytic provenance datasets can be used for research involving tools and techniques for analyzing interaction logs and analysis history. 
 
 ### Paper
-Link: [Analytic Provenance Datasets: A Data Repository of Human Analysis Activity and Interaction Logs](https://paperswithcode.com/paper/analytic-provenance-datasets-a-data)
-Introduced Date: 2018-01-16
-Number of Associated Papers: 1
+- Link: [Analytic Provenance Datasets: A Data Repository of Human Analysis Activity and Interaction Logs](https://paperswithcode.com/paper/analytic-provenance-datasets-a-data)
+- Introduced Date: 2018-01-16
+- Number of Associated Papers: 1
 
 
 ### Additional Links
@@ -203,9 +201,9 @@ Number of Associated Papers: 1
 **CTFW** is a large annotated procedural text dataset in the cybersecurity domain (3154 documents). It is used to generate flow graphs from procedural texts. 
 
 ### Paper
-Link: [Constructing Flow Graphs from Procedural Cybersecurity Texts](https://paperswithcode.com/paper/constructing-flow-graphs-from-procedural)
-Introduced Date: 2021-05-29
-Number of Associated Papers: 1
+- Link: [Constructing Flow Graphs from Procedural Cybersecurity Texts](https://paperswithcode.com/paper/constructing-flow-graphs-from-procedural)
+- Introduced Date: 2021-05-29
+- Number of Associated Papers: 1
 
 
 ### Additional Links
@@ -236,8 +234,7 @@ Cybersecurity education is exceptionally challenging as it involves learning the
 
 ### Data Loaders
 - 	url: https://github.com/garima0106/AISecKG-cybersecurity-dataset
-	repo:https://github.com/garima0106/AISecKG-cybersecurity-dataset
-	pytorch
+	  repo: https://github.com/garima0106/AISecKG-cybersecurity-dataset
   
 ### Additional Links
 - https://github.com/garima0106/AISecKG-cybersecurity-dataset
@@ -253,9 +250,9 @@ Cybersecurity education is exceptionally challenging as it involves learning the
 Large Language Models (LLMs) have the potential to enhance Agent-Based Modeling by better representing complex interdependent cybersecurity systems, improving cybersecurity threat modeling and risk management. Evaluating LLMs in this context is crucial for legal compliance and effective application development. Existing LLM evaluation frameworks often overlook the human factor and cognitive computing capabilities essential for interdependent cybersecurity. To address this gap, I propose OllaBench, a novel evaluation framework that assesses LLMs' accuracy, wastefulness, and consistency in answering scenario-based information security compliance and non-compliance questions. 
 
 ### Paper
-Link: [Ollabench: Evaluating LLMs' Reasoning for Human-centric Interdependent Cybersecurity](https://paperswithcode.com/paper/ollabench-evaluating-llms-reasoning-for-human)
-Introduced Date: 2024-06-11
-Number of Associated Papers: 1
+- Link: [Ollabench: Evaluating LLMs' Reasoning for Human-centric Interdependent Cybersecurity](https://paperswithcode.com/paper/ollabench-evaluating-llms-reasoning-for-human)
+- Introduced Date: 2024-06-11
+- Number of Associated Papers: 1
 
 
 ### Additional Links
@@ -270,9 +267,9 @@ Number of Associated Papers: 1
 Language Model (LM) agents for cybersecurity that are capable of autonomously identifying vulnerabilities and executing exploits have potential to cause real-world impact. Policymakers, model providers, and researchers in the AI and cybersecurity communities are interested in quantifying the capabilities of such agents to help mitigate cyberrisk and investigate opportunities for penetration testing. Toward that end, we introduce Cybench, a framework for specifying cybersecurity tasks and evaluating agents on those tasks. We include 40 professional-level Capture the Flag (CTF) tasks from 4 distinct CTF competitions, chosen to be recent, meaningful, and spanning a wide range of difficulties. Each task includes its own description, starter files, and is initialized in an environment where an agent can execute commands and observe outputs. Since many tasks are beyond the capabilities of existing LM agents, we introduce subtasks for each task, which break down a task into intermediary steps for a more detailed evaluation. To evaluate agent capabilities, we construct a cybersecurity agent and evaluate 8 models: GPT-4o, OpenAI o1-preview, Claude 3 Opus, Claude 3. 5 Sonnet, Mixtral 8x22b Instruct, Gemini 1. 5 Pro, Llama 3 70B Chat, and Llama 3. 1 405B Instruct. For the top performing models (GPT-4o and Claude 3. 5 Sonnet), we further investigate performance across 4 agent scaffolds (structed bash, action-only, pseudoterminal, and web search). Without subtask guidance, agents leveraging Claude 3. 5 Sonnet, GPT-4o, OpenAI o1-preview, and Claude 3 Opus successfully solved complete tasks that took human teams up to 11 minutes to solve. In comparison, the most difficult task took human teams 24 hours and 54 minutes to solve. All code and data are publicly available at https://cybench. github. io/. 
 
 ### Paper
-Link: [Cybench: A Framework for Evaluating Cybersecurity Capabilities and Risks of Language Models](https://paperswithcode.com/paper/cybench-a-framework-for-evaluating)
-Introduced Date: 2024-08-15
-Number of Associated Papers: 5
+- Link: [Cybench: A Framework for Evaluating Cybersecurity Capabilities and Risks of Language Models](https://paperswithcode.com/paper/cybench-a-framework-for-evaluating)
+- Introduced Date: 2024-08-15
+- Number of Associated Papers: 5
 
 
 ### Additional Links
